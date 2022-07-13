@@ -1,0 +1,5 @@
+"criandoTags(resultad)","tagLi","tagH3","tagDiv","ulDoHtml",
+"{nome: Resultado 2 vezes : 1}","document.createElement(""li"")","document.createElement(""h3"")","document.createElement(""div"")","-",
+"{nome: Resultado 2 vezes : 1}","-","item.nome{resultado 2}","item.vezes{1}","-",
+"{nome: Resultado 2 vezes : 1}",".appendChild(tagH3) appendChild(tagDiv)","-","-","ulDoHtml.appendChild(tagLi)",
+,,,,,

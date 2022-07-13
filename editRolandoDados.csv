@@ -1,0 +1,4 @@
+"rolandoDados","arrDeRetorno"," i","i<1","dado1","dado2","somaDosDados","if","return arrDeRetorno"
+"-","-","0","true","random","random","2","arrDeRetorno[0].vezes += 1",
+"-","[1,0,0,0,0,0,0,0,0,0,0]","1","false","-","-","-","-","[1,0,0,0,0,0,0,0,0,0,0]"
+,,,,,,,,
