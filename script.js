@@ -107,10 +107,13 @@ function criandoTags(item){
     let tagH3  = document.createElement("h3")
     let tagDiv = document.createElement("div")
 
+    tagLi.style.listStyle = "none"
+    tagLi.style.alignItems = "center"
     tagH3.innerText = item.nome
     tagDiv.style.height = `20px`
     tagDiv.innerText    = item.vezes
     tagDiv.style.color  = "black"
+    tagDiv.style.marginLeft = "10px"
     tagDiv.style.maxWidth  = `${item.vezes}px`
     tagDiv.style.backgroundColor = "red"
 
